@@ -22,7 +22,7 @@ const planets = [
         Name: "Moon",
         Description: "The Moon is Earth's only natural satellite. It is the fifth-largest moon in the Solar System and has a significant impact on Earth's tides.",
         Mass_kg: 7.342e22,
-        Number_in_Solar_System: "Earth's natural satellite",
+        Number_in_Solar_System: "satellite",
         Approximate_Age_years: 4.5e9,
         Atmosphere: "None",
         Average_Temperature_C: -23,
